@@ -1,2 +1,2 @@
 # Openclassroom-html-css
-border
+comment appliquer les border
